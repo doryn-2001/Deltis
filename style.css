@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-image: url('atlog.png');
+}
+
+.body_block {
+    position: absolute;
+    width: 630px;
+    height: 630px;
+    left: 645px;
+    top: 225px;
+    
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.data_entrance {
+position: absolute;
+font-family: 'Philosopher',sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 36px;
+background-color: none;
+color: #000000;
+}
